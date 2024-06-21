@@ -4,7 +4,11 @@
     <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <h1> Portfólio de Projetos</h1>
-    <link rel="stylesheet" href="styles.css">
+
+![wizard](https://github.com/Sandra23U/Desafio-03-Dio-Campus-Expert-Turma-08/assets/66983974/4d32fd99-f207-4aa8-b9a7-8275bbc6cc91)
+
+    
+<link rel="stylesheet" href="styles.css">
 </head>
 <body>
     <header>
